@@ -6,4 +6,4 @@ final <- function() {}
   return x <- 1
 }
 
-# End
+# Alex puts more smart code in tommorow.
