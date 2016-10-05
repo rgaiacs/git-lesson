@@ -2,4 +2,8 @@
 #
 # Need to start writing some code here.
 
-x <- 1
+final <- function() {}
+  return x <- 1
+}
+
+# End
